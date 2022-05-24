@@ -1,3 +1,4 @@
 **/__debug_bin
 **/docker-registry-cleanup
 **/.vscode
+**/.DS_Store
